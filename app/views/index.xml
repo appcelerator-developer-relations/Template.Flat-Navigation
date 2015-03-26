@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container">
+		<ActionBar title="My App" platform="android"/>
+		<Toolbar top="20" platform="ios">
+			<Items>
+				<FlexSpace/>
+				<Label>My App</Label>
+				<FlexSpace/>
+			</Items>
+		</Toolbar>
+		<Label id="label" onClick="doClick">Hello, World</Label>
+	</Window>
+</Alloy>
