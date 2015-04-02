@@ -1,6 +1,6 @@
 # Template.Flat-Navigation
 
-Use this Alloy App Template if the app you're building has only one level of navigation.  This template includes example of how to setup an iOS Toolbar and an Android ActionBar.
+Use this Alloy Barebones App Template if the app you're building has only one level of navigation.  This template includes example of how to setup an iOS Toolbar and an Android ActionBar.
 
 ![](screenshot.png)
 
